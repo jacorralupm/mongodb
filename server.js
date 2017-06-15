@@ -37,4 +37,4 @@ require('./app/routes.js')(app, passport); // load our routes and pass in our ap
 
 // launch ======================================================================
 app.listen(port);
-console.log('\n\n La magia ocurre en el puerto \n\n ' + port +' :)');
+console.log('\n\n La magia ocurre en el puerto ' + port +' :) \n\n');
